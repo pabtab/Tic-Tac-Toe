@@ -1,0 +1,8 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pabtab/Tic-Tac-Toe.git",
+  "author": "pabtab",
+  "license": "MIT"
+}
